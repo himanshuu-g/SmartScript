@@ -1,0 +1,11 @@
+article a {
+display: inline-block;
+margin-top: 1rem;
+text-decoration: none;
+
+color: #fff;
+background: #00f2fe;
+padding: @.5rem 1rem;
+border-radius: 4px;
+transition: background
+
